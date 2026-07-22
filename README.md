@@ -36,11 +36,3 @@ A machine learning web application that predicts the winning probability of IPL 
 │   ├── home.png
 │   └── prediction.png
 ```
-
-## Screenshots
-
-(Add home.png and prediction.png here)
-
-## Author
-
-Yashovardhan Agrawal
